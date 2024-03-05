@@ -15,8 +15,8 @@
 <div align="center">
     <picture>
         <source srcset="https://github-readme-stats-b3xul.vercel.app/api/top-langs/?username=b3xul&theme=dark&hide_title=true&layout=compact&langs_count=8&hide=PostScript,Roff,Makefile&size_weight=0.5&count_weight=0.5" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats-b3xul.vercel.app/api/top-langs/?username=b3xul&theme=dark&hide_title=true&layout=compact&langs_count=8&hide=PostScript,Roff,Makefile&size_weight=0.5&count_weight=0.5" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats-b3xul.vercel.app/api/top-langs/?username=b3xul&theme=dark&hide_title=true&layout=compact&langs_count=8&hide=PostScript,Roff,Makefile&size_weight=0.5&count_weight=0.5" />
+        <source srcset="https://github-readme-stats-b3xul.vercel.app/api/top-langs/?username=b3xul&hide_title=true&layout=compact&langs_count=8&hide=PostScript,Roff,Makefile&size_weight=0.5&count_weight=0.5" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats-b3xul.vercel.app/api/top-langs/?username=b3xul&hide_title=true&layout=compact&langs_count=8&hide=PostScript,Roff,Makefile&size_weight=0.5&count_weight=0.5" />
     </picture>
 </div>
 <hr />
